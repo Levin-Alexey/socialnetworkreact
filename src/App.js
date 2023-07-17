@@ -1,13 +1,17 @@
 import './App.css';
+import Header from "./components/Header";
+import LeftMenu from "./components/LeftMenu";
+import UserContent from "./components/UserContent";
+import Footer from "./components/Footer";
 
 
 const App = () => {
     return (<div className="body">
         <div className="app_wrapper">
-            <header className="header_wrapper">fdfdf</header>
-            <asaid className="left_menu_wrapper">sdsd</asaid>
-            <section className="user_content_wrapper">dfdfd</section>
-            <footer className="footer_wrapper">fdfd</footer>
+            <Header/>
+            <LeftMenu/>
+            <UserContent/>
+            <Footer/>
         </div>
     </div>);
 }
