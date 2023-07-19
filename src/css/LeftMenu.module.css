@@ -1,0 +1,8 @@
+.left_menu_wrapper {
+    grid-area: lm;
+    background-color: antiquewhite;
+}
+
+.left_menu_item {
+    list-style-type: none;
+}

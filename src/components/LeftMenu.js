@@ -1,7 +1,8 @@
+import classes from '../css/LeftMenu.module.css';
 const LeftMenu = () => {
-    return <asaid className="left_menu_wrapper">
-        <nav className="left_nav">
-            <ul className="left_menu_item">
+    return <asaid className={classes.left_menu_wrapper}>
+        <nav className={classes.left_nav}>
+            <ul className={classes.left_menu_item}>
                 <li>Profile</li>
                 <li>Messages</li>
                 <li>News</li>

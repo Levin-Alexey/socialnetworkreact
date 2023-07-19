@@ -1,0 +1,9 @@
+.footer_wrapper {
+    grid-area: f;
+    background-color: beige;
+}
+.footer_nav_list{
+    display: flex;
+    list-style-type: none;
+    gap: 10px;
+}

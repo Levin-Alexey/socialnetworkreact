@@ -43,41 +43,9 @@
     grid-gap: 10px;
 }
 
-.header_wrapper {
-    grid-area: h;
-    display: flex;
-    background-color: #61dafb;
-    position: fixed;
-    width: 1200px;
-}
 
-.nav_list {
-    display: flex;
-    gap: 10px;
-    list-style-type: none;
-}
 
-.left_menu_wrapper {
-    grid-area: lm;
-    background-color: antiquewhite;
-}
 
-.left_menu_item {
-    list-style-type: none;
-}
 
-.user_content_wrapper {
-    display: flex;
-    flex-direction: column;
-    grid-area: uc;
-    background-color: cadetblue;
-}
 
-.user_info_wrapper {
-    display: flex;
-}
 
-.footer_wrapper {
-    grid-area: f;
-    background-color: beige;
-}
