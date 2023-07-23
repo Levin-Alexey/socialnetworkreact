@@ -1,0 +1,14 @@
+.post_wrapper {
+    display: flex;
+    flex-direction: column;
+}
+.sectionPost_1_wrapper {
+    display: flex;
+}
+.avatarAndInfo {
+    display: flex;
+}
+.nameAndTime_wrapper {
+    display: flex;
+    flex-direction: column;
+}

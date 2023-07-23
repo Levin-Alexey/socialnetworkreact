@@ -10,7 +10,8 @@ const UserContent = () => {
         </div>
         <div className={classes.new_post_wrapper}></div>
         <div className={classes.user_posts_wrapper}>
-            <Post/>
+            <Post message='Hi' likes = '2'/>
+            <Post message='Hi all' likes = '12'/>
         </div>
 
     </section>
