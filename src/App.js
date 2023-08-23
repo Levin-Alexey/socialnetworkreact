@@ -4,7 +4,12 @@ import LeftMenu from "./components/LeftMenu";
 import UserContent from "./components/UserContent";
 import Footer from "./components/Footer";
 import Dialogs from "./components/Dialogs";
-import {BrowserRouter, Route, Router, Routes} from "react-router-dom";
+import {
+    BrowserRouter,
+    Route,
+    Router,
+    Routes
+} from "react-router-dom";
 
 
 const App = () => {

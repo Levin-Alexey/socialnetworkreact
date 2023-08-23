@@ -11,7 +11,7 @@ const Header = () => {
 
                 <li className={classes.nav_item}><NavLink to="/">HOME</NavLink></li>
                 <li className={classes.nav_item}>PROFILE</li>
-                <li className={classes.nav_item}><NavLink to="/dialogs">Messages</NavLink></li>
+                <li className={classes.nav_item}><NavLink to="/dialogs">MESSAGE</NavLink></li>
                 <li className={classes.nav_item}>COMMUNITY</li>
                 <li className={classes.nav_item}>BLOG</li>
                 <li className={classes.nav_item}>PAGES</li>

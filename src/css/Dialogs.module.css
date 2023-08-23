@@ -1,4 +1,8 @@
 
 .dialogs_wrapper {
     grid-area: uc;
+    display: flex;
+}
+.dialogs_list{
+    margin-right: 50px;
 }
